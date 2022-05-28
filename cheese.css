@@ -1,0 +1,14 @@
+body{
+  background-color: #EF9F9F;
+  text-align: center;
+}
+.Information{
+  border-top: 150px;
+}
+h1{
+  font-size:100px;
+  font-style: italic;
+}
+h1:hover{
+  font-style:normal;
+}
